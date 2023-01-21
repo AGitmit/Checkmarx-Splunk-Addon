@@ -1,0 +1,14 @@
+[props/checkmarx%3Aaudit]
+owner = admin
+version = 9.0.3
+modtime = 1674228576.928450000
+
+[props/source%3A%3A...ta-checkmarx-log-fetcher%2A.log%2A]
+owner = admin
+version = 9.0.3
+modtime = 1674228577.219000000
+
+[props/source%3A%3A...ta_checkmarx_log_fetcher%2A.log%2A]
+owner = admin
+version = 9.0.3
+modtime = 1674228577.446014000
