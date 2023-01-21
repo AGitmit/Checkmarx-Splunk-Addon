@@ -39,4 +39,3 @@ When clicking on creating a new data input for the app there are several paramet
 # Contact me
 Found a bug? want to request a new feature? missing data? API updated?
 You can contact me at: amitngithub23@gmail.com
-You can also contact me straight from Github.
