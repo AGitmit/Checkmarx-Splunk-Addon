@@ -35,6 +35,7 @@ When clicking on creating a new data input for the app there are several paramet
 - Host - Provide your Checkmarx hostname.
 - Local path - You should also provide a local path to be used by the app for all relevant needs. e.g. storing a checkpoint file with various values.
 - Verify SSL - This checkbox allows you to control wether you would like to include an SSL verification with every HTTP request made by this app. 
+- Proxy - In any case you need to use a proxy simply configure your proxy server under 'Configuration' in the data inputs tab inside the app.
 
 # Contact me
 Found a bug? want to request a new feature? missing data? API updated?
